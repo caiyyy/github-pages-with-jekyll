@@ -2,6 +2,7 @@
 title: "A Fresh Start"
 date: 2018-08-08
 ---
+
 title: Blog-First Draft
 author: Yi Cai
 email: yi.cai@emory.edu
@@ -15,4 +16,4 @@ github_username:  caiyyy
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
+
